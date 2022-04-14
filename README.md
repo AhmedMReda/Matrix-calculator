@@ -1,5 +1,5 @@
 # Matrix-calculator 
-This code takes two matrices (A,B) as inputs and can make these operatons:<br>
+This code takes two (3x3) matrices (A,B) as inputs and can make these operatons:<br>
 Mat.A "show matrix A"<br>
 Mat.B "show matrix B"<br>
 detA  "determinant A"<br>
